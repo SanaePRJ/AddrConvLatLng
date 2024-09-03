@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWBJwhUOMay6D5DTMBOfFZ6rM7wUtlPs9kRVXhQDYR8KVK2mbq72tb8dYFr8qRNWbfaj4F0uezzrMykasQlCyQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repositories\\AddrConvLatLng\\AddrConvLatLng\\AddrConvLatLng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}
