@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AddrConvLatLng/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.24.0"
+        },
+        "runtime": {
+          "AddrConvLatLng.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.24.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddrConvLatLng/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Selenium.WebDriver/4.24.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pwpNZQPCtDFH07nCliNMT/YRR5NhlPmxsrh/9e7PQsI/TfSUBy/VEdA6QwDY2WybzVZ6SlYSu1bv3cWKkiN8/w==",
+      "path": "selenium.webdriver/4.24.0",
+      "hashPath": "selenium.webdriver.4.24.0.nupkg.sha512"
+    }
+  }
+}
